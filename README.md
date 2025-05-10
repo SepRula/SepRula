@@ -13,7 +13,7 @@
 - Website Development
 - Coding
 
-### ช่องทางติดต่อ
+### Contact Me
 
 <div align="center">
 
