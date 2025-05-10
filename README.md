@@ -1,6 +1,5 @@
 # Hallo!! 👋 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)](https://github.com/yourusername)
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
 
 ## 🙋‍♂️ About Me
 
