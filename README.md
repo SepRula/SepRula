@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hallo!! 👋 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername)](https://github.com/yourusername)
 
-<!--
-**SepRula/SepRula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+🎯 First and last name: Supakorn Khantongdee
+💼 Studying : Studying at Silpakorn University, Faculty of Engineering
+
+🔧 **Main expertise:** 
+- Have moderate knowledge of cameras.
+- Play FPS games (VALORANT,CSGO)
+
+💡 **Other interests:**
+-Website Development
+- Coding
+## 🛠️ สแต็กเทคโนโลยี
