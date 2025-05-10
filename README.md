@@ -15,12 +15,9 @@
 -Website Development
 - Coding
 
-## 📍 ช่องทางติดต่อ
+## ✉️ ติดต่อผมได้ที่
 
-| Platform | ลิงก์ติดต่อ |
-|----------|------------|
-| **📧 Email** | [your.name@email.com](mailto:your.name@email.com) |
-| **📘 Facebook** | [fb.com/yourpage](https://facebook.com/yourpage) |
-| **📸 Instagram** | [@yourusername](https://instagram.com/yourusername) |
-| **💬 Line** | [เพิ่มเพื่อน](https://line.me/ti/p/~yourlineid) |
-| **🌐 Website** | [your-portfolio.com](https://your-portfolio.com) |
+<i class="fas fa-envelope"></i> **Email**: [your.name@email.com](mailto:your.name@email.com)  
+<i class="fab fa-facebook"></i> **Facebook**: [your.name]([https://facebook.com/yourpage](https://www.facebook.com/TsuK1.SupakorN?locale=th_TH))  
+<i class="fab fa-instagram"></i> **Instagram**: [@your.username]([https://instagram.com/yourusername](https://www.instagram.com/yo.osk/))  
+<i class="fab fa-line"></i> **Line ID**: @tsuk12006  
