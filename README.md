@@ -15,4 +15,3 @@
 💡 **Other interests:**
 -Website Development
 - Coding
-## 🛠️ สแต็กเทคโนโลยี
