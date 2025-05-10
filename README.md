@@ -15,9 +15,14 @@
 -Website Development
 - Coding
 
-## ✉️ ติดต่อผมได้ที่
+## 📲 Let's Connect!
 
-<i class="fas fa-envelope"></i> **Email**: [your.name@email.com](mailto:your.name@email.com)  
-<i class="fab fa-facebook"></i> **Facebook**: [your.name]([https://facebook.com/yourpage](https://www.facebook.com/TsuK1.SupakorN?locale=th_TH))  
-<i class="fab fa-instagram"></i> **Instagram**: [@your.username]([https://instagram.com/yourusername](https://www.instagram.com/yo.osk/))  
-<i class="fab fa-line"></i> **Line ID**: @tsuk12006  
+<a href="mailto:your.email@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<a href="https://facebook.com/yourprofile" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+<a href="https://instagram.com/yourusername" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
