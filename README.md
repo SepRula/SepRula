@@ -1,19 +1,19 @@
-# Hello!!
+# Hello!!👋
 
 ## About Me
 
-- First and last name: Supakorn Khandongdee
-- Studying: Studying at Silpakorn University, Faculty of Engineering
+👦- First and last name: Supakorn Khandongdee
+🎓- Studying: Studying at Silpakorn University, Faculty of Engineering
 
 **Main expertise:**
-- Have moderate knowledge of cameras.
-- Play FPS games (VALORANT/CSGO)
+📷- Have moderate knowledge of cameras.
+🎮- Play FPS games (VALORANT/CSGO)
 
 **Other interests:**
-- Website Development
-- Coding
+💻- Website Development
+🛠️- Coding
 
-### Contact Me
+### Contact Me 📌
 
 <div align="center">
 
