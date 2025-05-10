@@ -7,6 +7,7 @@
 🎓 - Studying: Studying at Silpakorn University, Faculty of Engineering
 
 **Main expertise:**
+
 📷 - Have moderate knowledge of cameras.
 
 🎮 - Play FPS games (VALORANT/CSGO)
