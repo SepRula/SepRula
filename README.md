@@ -2,7 +2,7 @@
 
 ## About Me
 
-👦 - First and last name: Supakorn Khandongdee
+👦 - First and last name: Supakorn Khantongdee
 
 🎓 - Studying: Studying at Silpakorn University, Faculty of Engineering
 
