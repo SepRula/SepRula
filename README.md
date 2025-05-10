@@ -4,7 +4,7 @@
 
 👦 - First and last name: Supakorn Khantongdee
 
-🎓 - Studying: Studying at Silpakorn University, Faculty of Engineering
+🎓 - Studying: Studying at Silpakorn University, ECS-SU
 
 **Main expertise:**
 
