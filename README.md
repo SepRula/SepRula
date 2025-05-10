@@ -13,6 +13,7 @@
 🎮 - Play FPS games (VALORANT/CSGO)
 
 **Other interests:**
+
 💻 - Website Development
 
 🛠️ - Coding
