@@ -15,14 +15,14 @@
 -Website Development
 - Coding
 
-## 📲 Let's Connect!
+## 🌐 ช่องทางติดต่อ
 
-<a href="mailto:your.email@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-<a href="https://facebook.com/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-<a href="https://instagram.com/yourusername" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
+<div align="center">
+
+[![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:your.email@gmail.com)
+[![Facebook](https://img.icons8.com/color/48/000000/facebook-new.png)](https://facebook.com/yourpage)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://instagram.com/yourusername)
+[![Line](https://img.icons8.com/color/48/000000/line-me.png)](https://line.me/ti/p/~yourlineid)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://linkedin.com/in/yourprofile)
+
+</div>
